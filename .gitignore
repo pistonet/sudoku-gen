@@ -1,0 +1,8 @@
+# sbt
+target/
+/.bsp/
+
+# intelliJ
+/.idea/
+
+
